@@ -1,0 +1,34 @@
+<project info="SuiteCloud IDE generated file, do not edit." setAttributesOnUpdate="false">
+  <folder name="TJSC" bundleable="false">
+    <folder name="Case Scripts" bundleable="false">
+      <folder name="Transaction Update Emails" bundleable="false">
+        <file name="sendOverdueEmails.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="sendTransactionUpdateEmails.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      </folder>
+      <file name="deleteExtraAddresses.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    </folder>
+    <folder name="Mass Update Scripts" bundleable="false">
+      <file name="MassUpdateCreateOpportunityScript.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="MassUpdateCreateOpportunityScriptFromLead.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="deleteRecordsMassUpdateScript.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    </folder>
+    <folder name="Sales Order Validation" bundleable="false">
+      <file name="CheckFulfillForm.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="validateSalesOrder.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    </folder>
+    <folder name="Trial Opportunities" bundleable="false">
+      <file name="Ann Orrels" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="Comprenshive School Radyr" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="Fulham Council" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="Imperial College" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="Lead 1" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="Lead 2" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="Orley Farm Prep School" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="Westminster Adult Service" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="createTrialOpportunity.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    </folder>
+    <file name="ClientCase.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    <file name="Library.FHL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    <file name="MassUpdateCreateOpportunityScript.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+  </folder>
+</project>
